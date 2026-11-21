@@ -1,0 +1,58 @@
+RT null
+T1 Emissions Gap Report 2026
+A1 United Nations Environment Programme, 
+A2 Pachauri, Shonali
+A2 Olhoff, Anne
+A2 Lamb, William F.
+A2 Pathak, Minal
+A2 Crippa, Monica
+A2 Libonati, Renata
+A2 Peters, Glen P.
+A2 Pongratz, Julia
+A2 Thakur, Sudeep
+A2 Kuramochi, Takeshi
+A2 Elzen, Michel den
+A2 Vishwanathan, Saritha Sudharmma
+A2 Abdullah, Ambiyah
+A2 Baptista, Luiz Bernardo
+A2 Dafnomilis, Ioannis
+A2 Ge, Mengpin
+A2 He, Chenmin
+A2 Blasco, Pablo
+A2 Missirliu, Ana
+A2 Scheewel, Jan-Luka
+A2 Self, Alister
+A2 Hooijschuur, Elena
+A2 Rogelj, Joeri
+A2 Riahi, Keywan
+A2 Chaturvedi, Vaibhav
+A2 Gonzales-Zuñiga, Sofia
+A2 Lamboll, Robin
+A2 Pelz, Setu
+A2 Ou, Yang
+A2 Boehm, Sophie
+A2 Jeffery, Louise
+A2 Schumer, Clea
+A2 Nascimento, Leonardo
+A2 Saive, Gabriel
+A2 Daunit, Leïlou
+A2 Re, Luca Lo
+A2 Khanna, Tarun M.
+A2 Minx, Jan C.
+A2 Muûls, Mirabelle
+A2 Koch, Nicolas
+A2 Colmer, Jonathan
+A2 Constantino, Sara
+A2 Dubash, Navroz K.
+A2 Osiolo, Helen Hoka
+A2 Zhang, Shuang
+A2 Nachtigall, Daniel
+SN 978-92-807-4308-1
+YR 2026
+FD 2026-10-21
+LK https://wedocs.unep.org/handle/20.500.11822/50038
+UL https://wedocs.unep.org/handle/20.500.11822/50038
+NO United Nations Environment Programme (2026). Emissions Gap Report 2026: The point of return – Urgent emissions cuts needed to come back from overshoot of 1.5°C. Olhoff, A. (chief ed.), Lamb, W., Kuramochi, T., Rogelj, J., Pelz, S., Khanna, T., Boehm, S., den Elzen, M., Jeffery, L., Minx, J., Muûls, M., Pachauri, S., Pathak, M., Riahi, K. and Sudharmma Vishwanathan, S. (eds). Nairobi
+NO The 2026 Emissions Gap Report lays out the cuts to emissions needed (by 2030, 2035 and 2040) to get on a return pathway — finding that the cuts needed are far above what current Nationally Determined Contributions deliver. However, the report finds that it is possible to close this emissions gap — pointing to many successful climate policies that have already delivered real-world emissions cuts and could be scaled up globally to accelerate action.
+DS UN Environment Document Repository
+RD Nov 21, 2026
